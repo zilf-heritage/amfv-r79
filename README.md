@@ -6,19 +6,7 @@ This repository contains source code and other files which were, as far as anyon
 
 ## Where did it come from?
 
-The contents of this repository were imported from [a zip file](https://eblong.com/infocom/sources/amfv-r79.zip) hosted on [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/).
-
-There are other public sources of this material available on the internet.
-
-| Primary Source      | Secondary Source           | Ultimate Source *        |
-|:-------------------:|:--------------------------:|:------------------------:|
-| [imported zip file] | [Historical Source (copy)] | [Infocom Sources (copy)] |
-
-[imported zip file]: https://eblong.com/infocom/sources/amfv-r79.zip
-[Historical Source (copy)]: https://github.com/zil-legacy/amfv-historicalsource/tree/6d740ac4924ae7d90c2ccba6bd018da4126f74d1
-[Infocom Sources (copy)]: https://github.com/zil-legacy/infocom-sources/tree/master/development/old/s5/r79-amiga
-
-\* This comes from a partial, source code only archive of "The Infocom Drive".
+This repository was forked from [zil-legacy/amfv-r79-eblong](https://github.com/zil-legacy/amfv-r79-eblong).
 
 ## What is it for?
 
